@@ -1,0 +1,20 @@
+.App {
+    font-family: sans-serif;
+    text-align: center;
+  }
+  
+  .con {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .incon {
+    width: 30%; 
+    margin-bottom: 10px; 
+    border: 1px solid black; 
+    box-sizing: border-box; 
+    padding: 10px; 
+  }
+  
